@@ -52,8 +52,6 @@ Adeus consists of 3 parts:
 
 
 
-#### Made by the Community, with -❤️-:
+#### Made with  intrest
 
-<a href="https://github.com/adamcohenhillel/ADeus/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=adamcohenhillel/ADeus" />
 </a>
